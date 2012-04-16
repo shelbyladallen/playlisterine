@@ -1,0 +1,6 @@
+-- read file as argument to script
+-- use filepath of playlist as root for copying later
+-- parse file...
+-- for each song found:
+--   copy songs into folder structure relative to playlist file
+--   correct entry in playlist to reflect new structure
